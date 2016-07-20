@@ -12,7 +12,7 @@
   ],
   "license": "MIT",
   "homepage": "http://johndoe.com",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
