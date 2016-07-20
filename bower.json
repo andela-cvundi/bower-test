@@ -1,0 +1,23 @@
+{
+  "name": "vickris-bowe",
+  "authors": [
+    "Christopher Vundi <christophervundi@gmail.com>"
+  ],
+  "description": "Package for testing purposes",
+  "main": "js/type.js",
+  "keywords": [
+    "cursor",
+    "type",
+    "water"
+  ],
+  "license": "MIT",
+  "homepage": "http://johndoe.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
